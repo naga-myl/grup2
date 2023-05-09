@@ -1,2 +1,5 @@
-# grup2
+# assignment luma-demo-store
+
+
+
 test 
